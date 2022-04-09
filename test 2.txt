@@ -1,7 +1,6 @@
 edited test 2 file by github repository
 
-after editing trying to create new branch for github repo
+after editing trying to create new branch for github re
 
+>>>>>>>>>>> conflict resolved by github
 
-
->>>>>>>>>>>>edited by branch akluj
