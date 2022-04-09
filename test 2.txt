@@ -1,5 +1,6 @@
 edited test 2 file by github repository
 
-after editing trying to create new branch for github repo
+after editing trying to create new branch for github re
 
-pushing this to new branch
+>>>>>>>>>>> conflict resolved by github
+
